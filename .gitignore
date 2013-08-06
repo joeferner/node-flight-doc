@@ -1,0 +1,11 @@
+/build/*
+/luceneIndex
+node_modules
+*.node
+*.sh
+*.swp
+.lock*
+npm-debug.log
+.idea
+dev.db
+database.json
